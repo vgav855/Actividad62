@@ -1,4 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Y(Rl5aFIu3#!y$My+2WI">B</variable></variables><block type="device_forever" id="mg.H_lF{]LMlRNW%@Zft" x="64" y="148"><statement name="HANDLER"><block type="variables_set" id="vO-(I:JPT=S*DmY},UOt"><field name="VAR" id="Y(Rl5aFIu3#!y$My+2WI">B</field><value name="VALUE"><shadow type="math_number" id="%.^TrWfOXC[aoZK(t4$Z"><field name="NUM">0</field></shadow><block type="math_arithmetic" id="r-AhDy=B*p-TM)NmusL:"><field name="OP">MINUS</field><value name="A"><shadow type="math_number" id="s%cN2xWLz:$)G--Tzr[9"><field name="NUM">255</field></shadow></value><value name="B"><shadow type="math_number" id="$R#4-~8X_Nd2ETCvwU,H"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="A)ccK^xR5NHOx*-ELBt`"></block></value></block></value><next><block type="device_set_brightness" id="[]0fz~)hmA{~n,_6boR`"><value name="value"><shadow type="math_number_minmax" id="b=Rv#{Uj,1~0+sOG^zow"><mutation min="0" max="255" label="Value" precision="0"></mutation><field name="SLIDER">255</field></shadow><block type="variables_get" id=";U4tl/BXD1,08JFe=2Bs"><field name="VAR" id="Y(Rl5aFIu3#!y$My+2WI">B</field></block></value><next><block type="device_show_leds" id=":)lNp8Pa!vT0Z}IOa1Qb"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field></block></next></block></next></block></statement></block></xml>
